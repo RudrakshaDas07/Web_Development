@@ -18,23 +18,12 @@ This repository contains a complete web development project featuring both front
 ## Features
 
 - 🔐 *Authentication & Authorization*: Secure user login and registration
-- 📱 *Responsive Design*: Mobile-first, cross-device compatibility
 - ⚡ *Performance Optimized*: Lazy loading, code splitting, caching
 - 🔍 *SEO Friendly*: Meta tags, Open Graph, structured data
 - 🧪 *Well Tested*: Unit, integration, and e2e tests
 - 🚀 *CI/CD Pipeline*: Automated testing and deployment
 - 🎨 *Modern UI/UX*: Clean, intuitive user interface
 - 📊 *Analytics*: User behavior tracking and insights
-
-
-## Performance & Security
-
-- *Security Headers*: Helmet.js implementation
-- *Rate Limiting*: API endpoint protection
-- *Input Validation*: Joi/Yup schema validation
-- *SQL Injection Prevention*: Parameterized queries
-- *XSS Protection*: Content sanitization
-- *Performance Monitoring*: Application metrics and logging
 
 ## Browser Support
 
