@@ -11,7 +11,6 @@ This repository contains a complete web development project featuring both front
 ### Frontend
 - *Framework*: React 18 / Vue 3 / Angular 15
 - *Styling*: Tailwind CSS / SCSS / Styled Components
-- *State Management*: Redux Toolkit / Vuex / NgRx
 - *Build Tool*: Vite / Webpack
 - *Testing*: Jest, React Testing Library
 
